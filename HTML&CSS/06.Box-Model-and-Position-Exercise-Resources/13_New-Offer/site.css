@@ -1,0 +1,22 @@
+body {
+    border: 2px solid green;
+
+}
+
+main {
+    border: 2px solid red;
+    width: 700px;
+    height: 500px;
+    margin: 60px;
+}
+
+.new {
+    position: relative;
+    top: -200px;
+    right: 150px;
+
+}
+
+.cup {
+    border: 2px solid blue;
+}

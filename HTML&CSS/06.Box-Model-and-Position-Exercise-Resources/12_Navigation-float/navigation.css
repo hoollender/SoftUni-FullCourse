@@ -1,0 +1,12 @@
+.main-nav ul {
+    display: flex;
+    padding-bottom: 1.5em;
+    
+}
+.main-nav li {
+    display: block;
+}
+.main-nav a {
+    display: block;
+    padding: 0.5em 1em;
+}

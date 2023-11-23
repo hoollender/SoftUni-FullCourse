@@ -1,0 +1,19 @@
+body{
+    margin: 5%;
+}
+ul{
+    display: flex;
+    gap: 3em;
+}
+li{
+    list-style: none;
+}
+a {
+    color: black;
+    padding: 1em;
+    border-radius: 50%;
+    background: #CCC;
+}
+a:hover{
+    color: blue;
+}
