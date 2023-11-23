@@ -1,19 +1,23 @@
-body{
+body {
     margin: 5%;
 }
-ul{
+
+ul {
     display: flex;
     gap: 3em;
 }
-li{
+
+li {
     list-style: none;
 }
+
 a {
     color: black;
     padding: 1em;
     border-radius: 50%;
     background: #CCC;
 }
-a:hover{
+
+a:hover {
     color: blue;
 }

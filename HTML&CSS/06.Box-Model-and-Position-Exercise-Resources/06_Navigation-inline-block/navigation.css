@@ -1,4 +1,4 @@
-/*.main-nav{                         KODA OT LEKCIQTA
+/*.main-nav{                       Code From Lecture
 
 } 
 .main-nav ul {
@@ -25,27 +25,29 @@ border-radius: 0.3em;
     border-color: #147;
  }
 */
- .main-nav{
+.main-nav {}
 
-} 
 .main-nav ul {
     padding: 0;
 }
-.main-nav li{
+
+.main-nav li {
     display: inline-block;
     list-style: none outside;
     margin: 0 0.2em;
 
 }
-.main-nav a{
-display: block;
-padding: 0.5em 0.8em;
-text-decoration: none;
-color: green;
-font-weight: bold;
+
+.main-nav a {
+    display: block;
+    padding: 0.5em 0.8em;
+    text-decoration: none;
+    color: green;
+    font-weight: bold;
 }
-.main-nav a:hover{
+
+.main-nav a:hover {
     background: #369;
     color: #fff;
     border-color: #147;
- }
+}

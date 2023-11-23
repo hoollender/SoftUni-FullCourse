@@ -35,7 +35,8 @@ h6 {
     padding-top: 1em;
     padding-bottom: 0.5em;
 }
-img[class*="align"]{
+
+img[class*="align"] {
     display: block;
     padding: 0.5em;
     background: fff;
@@ -44,27 +45,30 @@ img[class*="align"]{
     border: 3px solid black;
 }
 
-.align-left{
+.align-left {
     float: left;
     margin: 0 1em 1em 0;
 
 }
 
-.align-right{
+.align-right {
     float: right;
     margin: 0 0 1em 1em;
 }
-.p-left-align{
+
+.p-left-align {
     display: flex;
     flex: 1 1 100%;
     justify-content: space-between;
     gap: 4em;
 }
-blockquote{
+
+blockquote {
     display: flex;
     flex-wrap: wrap;
     padding-left: 2em;
 }
+
 .author {
     content: '';
     align-items: flex-end;

@@ -1,17 +1,20 @@
-article{
+article {
     width: 500px;
     height: 200px;
     background: lightgray;
     padding: 10px;
     overflow: auto;
 }
-h2{
+
+h2 {
     text-align: center;
     text-transform: uppercase;
 }
-h3{
+
+h3 {
     text-align: center;
 }
-p{
+
+p {
     text-indent: 30px;
 }

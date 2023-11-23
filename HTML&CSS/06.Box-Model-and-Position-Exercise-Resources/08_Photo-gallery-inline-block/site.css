@@ -1,15 +1,17 @@
-body{
+body {
     padding: 5rem;
     background: #eee;
     max-width: 50%;
     border: 2px solid #000;
 }
-.gallery{
+
+.gallery {
     width: 100%;
     margin: 0 auto;
     text-align: center;
 }
-li{
+
+li {
     width: 18rem;
     display: inline-block;
     background: #fff;
@@ -18,7 +20,8 @@ li{
     vertical-align: middle;
     margin: 0.5rem;
 }
-img{
+
+img {
     display: block;
     width: 100%;
     height: auto;

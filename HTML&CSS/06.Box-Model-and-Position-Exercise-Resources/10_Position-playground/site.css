@@ -48,6 +48,7 @@ body {
     transition: opacity 0.3s ease-in;
 
 }
-.card:hover .inner-shadow{
+
+.card:hover .inner-shadow {
     opacity: 0;
 }

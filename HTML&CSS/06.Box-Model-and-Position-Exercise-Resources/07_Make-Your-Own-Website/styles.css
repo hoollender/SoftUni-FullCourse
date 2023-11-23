@@ -1,17 +1,19 @@
-div{
+div {
     width: 280px;
     display: inline-block;
     padding: 32px 16px 16px;
     margin-top: 20px;
     background: #0A2C48;
-    color:#fff;
+    color: #fff;
     border-radius: 4px;
 
 }
-div:hover{
+
+div:hover {
     background: #2A4C68;
 }
-P{
+
+P {
     color: #c9d6ff;
     font-size: 18px;
 }

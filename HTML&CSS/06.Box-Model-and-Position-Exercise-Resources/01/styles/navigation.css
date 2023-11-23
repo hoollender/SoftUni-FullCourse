@@ -27,7 +27,7 @@
     .site-header label {
         display: none;
     }
-    
+
     .main-nav {
         display: block;
     }
@@ -44,7 +44,7 @@
         display: none;
     }
 
-    #nav-toggle:checked + .site .site-header .main-nav {
+    #nav-toggle:checked+.site .site-header .main-nav {
         display: block;
         position: absolute;
         top: 5em;
@@ -56,17 +56,17 @@
         border-radius: 0.3em;
     }
 
-    #nav-toggle:checked + .site .site-header .main-nav li + li {
+    #nav-toggle:checked+.site .site-header .main-nav li+li {
         margin-top: 0.5em;
     }
 
-    #nav-toggle:checked + .site .site-header .main-nav a {
+    #nav-toggle:checked+.site .site-header .main-nav a {
         background: #3498db;
         border-radius: 0.3em;
     }
 
-    #nav-toggle:checked + .site .site-header label span {
+    #nav-toggle:checked+.site .site-header label span {
         display: inline;
     }
-    
+
 }
