@@ -1,0 +1,49 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font: 16px/1.5 Verdana, sans-serif;
+}
+
+h2 {
+    font-family: Georgia, serif;
+}
+
+body {
+    padding: 4em;
+}
+
+header {
+    border-bottom: 2px solid rgb(0, 0, 0);
+    display: flex;
+    padding-bottom: 1em;
+    margin-bottom: 1em;
+    justify-content: space-between;
+    /*drugiqt variant e nav { margin-left: auto;} ,no ako ima element posredata nqma da e v centura*/
+}
+
+nav ul {
+    display: flex;
+    gap: 1em;
+}
+
+nav ul li {
+    list-style: none outside;
+    display: block;
+}
+
+nav a {
+    color: rgb(0, 153, 0);
+    text-decoration: none;
+}
+
+p {
+    padding-bottom: 1.5em;
+}
+
+h1 {
+    text-transform: uppercase;
+}
