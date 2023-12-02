@@ -1,6 +1,7 @@
 * {
   box-sizing: border-box;
 }
+
 /* Fake image, just for this example */
 .fakeimg {
   background-color: #aaa;
@@ -9,7 +10,7 @@
 }
 
 body {
-/* TODO
+  /* TODO
 CSS Grid. Display grid. 
 Define the grid areas. 
 Create two unequal columns that sits next to each other 
@@ -23,31 +24,31 @@ Create two unequal columns that sits next to each other
 /* TODO Reference the grid area */
 
 body {
-/* TODO style the body*/
+  /* TODO style the body*/
 }
 
-header { 
-/* TODO style the header */
+header {
+  /* TODO style the header */
 }
 
 nav {
-/* TODO style the navigation bar*/
+  /* TODO style the navigation bar*/
 }
 
 nav a {
-/* TODO style the navigation bar links*/
+  /* TODO style the navigation bar links*/
 }
 
 aside {
-/* TODO style the sidebar*/
+  /* TODO style the sidebar*/
 }
 
 main {
-/* TODO style the main*/
+  /* TODO style the main*/
 }
 
-footer{
-/* TODO style the footer*/
+footer {
+  /* TODO style the footer*/
 }
 
 /* TODO Responsive layout - when the screen is less than 700px wide, 
@@ -55,4 +56,3 @@ make the two columns stack on top of each other instead of next to each other */
 
 /* TODO Responsive layout - If the screen is smaller than 700px, 
 display the navigation bar links as block and center the text */
-
